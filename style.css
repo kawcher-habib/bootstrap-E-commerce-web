@@ -1,0 +1,32 @@
+.bg-color{
+    background:#f5dde89e;
+   
+}
+.btn-bg{
+    background: linear-gradient(180deg, #00f7ff, #00a2ff);
+    color: white;
+}
+.price-color{
+    color: #b60ab0;
+}
+.categ__1-bg{
+    background:linear-gradient(160deg, #c300ff, #f813b3);
+    color: white;
+}
+.categ__2-bg{
+    background:linear-gradient(160deg, #6200ff, #9113f8);
+    color: white;
+}
+.categ__3-bg{
+    background:linear-gradient(160deg, #f59426, #f8e913);
+    color: white;
+    
+}
+.subescribe{
+    background: linear-gradient(160deg, #ff00d4, #bc04d4);
+    height: 400px;
+    color: white;
+}
+.sub-btn{
+    background: linear-gradient(180deg, #7fb806,#058d49);
+}
