@@ -28,5 +28,7 @@
     color: white;
 }
 .sub-btn{
-    background: linear-gradient(180deg, #7fb806,#058d49);
+    background: linear-gradient(180deg, #97b806,#058d4e);
+    color: #ffffff;
+    font-weight: 600;
 }
